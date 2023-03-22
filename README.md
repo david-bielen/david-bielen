@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @david-bielen
 - 👀 I’m interested in API design
-- 🌱 I’m currently learning FASTAPI
+- 🌱 I’m currently working with FASTAPI
 - 📫 How to reach me davidbielen@icloud.com
 
 <!---
